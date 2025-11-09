@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi, I'm a soon to be 13 yr old named Dhiaan Dave! I live the great and glorius state of California. I'll be an 8th grader at Thomas Russell Middle during the 2025-2026 school year.
+Hi, I'm Dhiaan Dave! I live the great and glorius state of California. I'm a student at Thomas Russell Middle School.
 
 I have a bunch of CLI python knowledge and now I am trying to learn JavaScript and with it stuff like React.js and Next.js
 I'm always open to suggestions be it about Github, coding, hardware, or just learning anything in general
-You can catch me at dhiaandave@outlook.com
 (He/Him/His)
 Thats about it for now!
